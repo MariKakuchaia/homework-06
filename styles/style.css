@@ -11,7 +11,7 @@ ul{
     list-style: none;
 }
 .wrapper-div1{
-    max-width: 1220px;
+    max-width: 1320px;
     width: 100%;
     margin: 0 auto;
     margin-top: 180px;
@@ -26,10 +26,10 @@ ul{
     font-size: 32px;
 }
 .image-one{
-    width: 600px;
+    width: 700px;
     margin-left: 137px;
     vertical-align: middle;
-    box-shadow: 10px 20px #0A22F4 ;
+    box-shadow: 10px 10px #0A22F4 ;
     border-radius: 15px;
 }
 .big-par{
@@ -38,4 +38,14 @@ ul{
 p{
     font-family: 'HelveticaNeue';
     font-size: 16px;
+}
+.image-two{
+    width: 700px;
+    box-shadow: -10px 10px #0A22F4;
+    border-radius: 15px;
+    margin-right: 138px;
+    vertical-align: middle;
+}
+.wrapper-div2{
+    margin-bottom: 394px;
 }
