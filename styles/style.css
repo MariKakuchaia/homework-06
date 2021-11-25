@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: 100%;
 }
 a{
     text-decoration: none;
@@ -9,7 +10,42 @@ a{
 ul{
     list-style: none;
 }
-.satauri2{
-    font-size: 32px;
+.wrapper-div1{
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 180px;
+}
+.text-div{
+    display: inline-block;
+    width: 463px;
+}
+.title-about{
+    margin-bottom: 60px;
     font-family: 'HelveticaNeue';
+    font-size: 32px;
+}
+.image-one{
+    width: 700px;
+    margin-left: 137px;
+    vertical-align: middle;
+    box-shadow: 10px 10px #0A22F4 ;
+    border-radius: 15px;
+}
+.big-par{
+    margin-bottom: 22px;
+}
+p{
+    font-family: 'HelveticaNeue';
+    font-size: 16px;
+}
+.image-two{
+    width: 700px;
+    box-shadow: -10px 10px #0A22F4;
+    border-radius: 15px;
+    margin-right: 138px;
+    vertical-align: middle;
+}
+.wrapper-div2{
+    margin-bottom: 394px;
 }
