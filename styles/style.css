@@ -10,9 +10,11 @@ a{
 ul{
     list-style: none;
 }
-.wrapper-div1{
+section{
     max-width: 1320px;
     width: 100%;
+}
+.wrapper-div1{
     margin: 0 auto;
     margin-top: 180px;
 }
